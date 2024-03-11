@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705472423 source:d:\codeblocks\oji\interschem\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<cstring>
+	<stack>
+	<string>
+	<cmath>
+	<sstream>
+
