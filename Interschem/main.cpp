@@ -22,7 +22,6 @@ stack<double> Opz;
 stack<string> Op;
 stack<char> Paranteze;
 
-/// Serban
 void mytostring(int n, char *s)
 {
     if(n == 0) s[0] = (char)(0+'0');
@@ -445,7 +444,6 @@ int Conditie(char z[256])
 
 }
 
-/// Florea
 void myOuttextXY(int x, int y, int cerneala, int hartie, char *text)
 {
     settextjustify(CENTER_TEXT,CENTER_TEXT);
@@ -1322,7 +1320,6 @@ int main()
             setbkcolor(FUNDAL);
             cleardevice();
 
-            ///Delia
             LiniiMeniu();
             for(i=1; i<=10; i++)
                 deseneazabloc(blocuri[i]);
