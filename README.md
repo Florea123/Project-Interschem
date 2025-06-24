@@ -12,9 +12,6 @@
 - **Error Handling**: Detects logical errors in the diagram and provides feedback.
 - **Visualization**: Displays the logical diagram in real-time with customizable colors and styles.
 
-## Project Structure
-
-Interschem/ ├── InterSchem.cbp # Code::Blocks project file ├── InterSchem.depend # Dependency file ├── InterSchem.layout # Layout configuration file ├── main.cpp # Main source code ├── bin/ │ └── Debug/ │ └── InterSchem.exe # Compiled executable ├── obj/ │ └── Debug/ │ └── main.o # Object file
 
 ## Key Components
 
